@@ -27,3 +27,11 @@ pubspec.lock
 *.g.dart
 *.freezed.dart
 *.mocks.dart
+devsim/
+devsim_misc/
+nmos_sim/*.vtu
+nmos_sim/*.vtm
+nmos_sim/*.visit
+nmos_sim/*.dat
+nmos_sim/*.msh
+__pycache__/
